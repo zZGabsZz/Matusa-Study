@@ -1,0 +1,61 @@
+.barra{
+    position: fixed;
+    top: 0px;
+    width: 2500px;
+    height: 180px;
+    background-color: black;
+}
+.barra img{
+    width: 180px;
+    height: 180px;
+}
+.barra h1{
+    color: white;
+    position: fixed;
+    top: 5%;
+    left: 70%;
+    font-size: 50px;
+}
+.you{
+    position: fixed;
+    left: 1%;
+    top: 30%;
+    height: 400px;
+    width: 600px;
+}
+.dow{
+    position: fixed;
+    left: 54%;
+    top: 63%;
+    font-size: 30px;
+    color: yellow;
+
+}
+.mat{
+    position: fixed;
+    left: 57%;
+    top: 60%;
+    font-size: 40px;
+}
+.exe{
+    position: fixed;
+    left: 84%;
+    top: 42%;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+}
+.pom{
+    position: fixed;
+    left: 84%;
+    top: 58%;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+}
+.pd{
+    position: fixed;
+    left: 66%;
+    top: 38%;
+    font-size: 45px;
+}

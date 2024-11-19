@@ -1,0 +1,64 @@
+.barra{
+    position: absolute;
+    top: 0px;
+    width: 2000px;
+    height: 180px;
+    background-color: black;
+    left: 0%;
+}
+.barra img{
+    width: 180px;
+    height: 180px;
+    margin-right: 10%;
+}
+.barra h1{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    padding: 20px;
+}
+img{
+    width: 430px;
+    height: 250px;
+}
+.options{
+    position: absolute;
+    top: 230px;
+    margin-left: 3px;
+    display: grid;
+    grid-template-columns: 450px 450px 450px;
+}
+.options h1{
+    color: white;
+    font-size: 40px;
+}
+.aula h1{
+    position: absolute;
+    top: 200px;
+    left: 90px;
+}
+.grupo h1{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+.top h1{
+    position: absolute;
+    top: 200px;
+    left: 1030px;
+}
+.logout{
+    margin-top: 2.5%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+
+
+
+
+
+

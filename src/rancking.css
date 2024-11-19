@@ -1,0 +1,124 @@
+.barra{
+    position: fixed;
+    top: 0px;
+    width: 2000px;
+    height: 180px;
+    background-color: black;
+}
+.barra img{
+    width: 180px;
+    height: 180px;
+}
+.barra h1{
+    color: white;
+    position: fixed;
+    top: 10%;
+    left: 70%;
+    font-size: 50px;
+}
+.t1{
+    color: white;
+    font-size: 50px;
+    position: fixed;
+    top: 32%;
+    left: 15%;
+}
+.t2{
+    color: white;
+    font-size: 70px;
+    position: fixed;
+    top: 30%;
+    left: 60%;
+}
+.pre{
+    background-color: rgb(1, 1, 50);
+    height: 100px;
+    width: 735px;
+    position: fixed;
+    top: 30%;
+    left: 45%;
+}
+.ran{
+    background-color: rgb(83, 31, 185);
+    height: 100px;
+    width: 500px;
+    position: fixed;
+    top: 31%;
+    left: 6%;
+}
+.topp{
+    width: 500px;
+    height: 350px;
+    position: fixed;
+    top: 43%;
+    left: 6%;
+    background-color: black;
+    border-radius: 10px;
+}
+.topp p{
+    color: white;
+}
+.u img{
+    margin-top: 7px;
+    margin-left: 7px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+.u{
+    background-color: rgb(1, 1, 50);
+    width: 500px;
+    height: 60px;
+    display: grid;
+    grid-template-columns: 70px 350px 50px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+
+.lin{
+    width: 700px;
+    height: 400px;
+    position: fixed;
+    left: 47%;
+    top: 50%;
+}
+.premios{
+    position: fixed;
+    left: 46%;
+    top: 50%;
+    display: grid;
+    grid-template-columns: 270px 300px 100px;
+}
+.ca{
+    width: 100px;
+    height: 150px;
+    margin-top: 20px;
+}
+.ph{
+    width: 150px;
+    height: 150px;
+}
+.ce{
+    width: 160px;
+    height: 150px;
+}
+h2{
+    color: white;
+}
+.p1{
+    position: fixed;
+    top: 80%;
+    left: 47%;
+}
+.p2{
+    position: fixed;
+    top: 80%;
+    left: 67%;
+}
+.p3{
+    position: fixed;
+    top: 80%;
+    left: 87%;
+}

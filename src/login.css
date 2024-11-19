@@ -1,0 +1,48 @@
+.menulogin{
+    height: 740px;
+    width: 410px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 80px;
+}
+.nom{
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    border-radius: 10px;
+}
+.sen{
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    left: 50%;
+    top: 60%;
+    border-radius: 10px;
+}
+.log{
+    width: 550px;
+    height: 1060px;
+}
+.lo{
+    font-size: 100px;
+    position: fixed;
+    top: 20%;
+    left: 57%;
+}
+.Cadast{
+    position: fixed;
+    top: 70%;
+    left: 49%;
+    border-radius: 10px;
+    height: 70px;
+}

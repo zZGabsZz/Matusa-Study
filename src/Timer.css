@@ -1,0 +1,79 @@
+.pomodoro-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-top: 8%;
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .title {
+    font-size: 34px;
+    margin-bottom: 20px;
+    margin-top: 7%;
+    margin-left: -9.8%;
+  }
+  
+  .timer-circle {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+  }
+  
+  .controls button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #f54e4e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .controls button:hover {
+    background: #68d43d;
+  }
+  
+  .controls button:last-child {
+    background: #4caf50;
+  }
+  
+  .controls button:last-child:hover {
+    background: #3a8c41;
+  }
+  
+  .settings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #2c2f48;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+  }
+  
+  .settings label {
+    font-size: 16px;
+    margin: 10px 0;
+    color: white;
+  }
+  
+  .settings input {
+    padding: 5px;
+    margin-left: 10px;
+    width: 60px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  .tconfigure{
+    margin-top: -10%;
+    margin-left: -16%;
+  }
+  
+  

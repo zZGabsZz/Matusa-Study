@@ -1,0 +1,128 @@
+.barra{
+    position: absolute;
+    top: 0px;
+    width: 2800px;
+    height: 230px;
+    background-color: black;
+}
+.barra img{
+    width: 230px;
+    height: 230px;
+}
+.barra h1{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+}
+h1{
+    font-size: 40px;
+    position: fixed;
+    top: 30%;
+}
+.meta{
+    background-color: rgb(1, 1, 50);
+    width: 700px;
+    height: 350px;
+    position: fixed;
+    top: 42%;
+    left: 3%;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+.meta img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    position: fixed;
+    top: 43%;
+    left: 8%;
+}
+.meta h2{
+    position: fixed;
+    top: 41%;
+    left: 13%;
+}
+.des{
+    background-color: rgb(83, 31, 185);
+    width: 700px;
+    height: 273px;
+    position: fixed;
+    top: 53%;
+    border-radius: 15px;
+}
+.des p{
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    top: 60%;
+    left: 9%;
+}
+button{
+    width: 250px;
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+    position: fixed;
+    top: 60%;
+    left: 56%;
+    text-align: left;
+}
+.me{
+    position: fixed;
+    top: 30%;
+    left: 13%;
+    font-size: 45px;
+}
+.ads{
+    border-radius: 10px;
+    position: fixed;
+    top: 33%;
+    left: 75%;
+    height: 70px;
+}
+.in{
+    position: fixed;
+    top: 45%;
+    left: 75%;
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+}
+.ex{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+}
+.met{
+    color: white;
+    font-size: 30px;
+}
+#list{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: -90px;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.concluida p {
+    text-decoration: line-through;
+    color: gray;
+}
+.seryou2{
+    margin-left: -3%;
+}
+.seryouimg2{
+    margin-left: -4%;
+    margin-top: 1%;
+}
+
